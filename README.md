@@ -92,7 +92,7 @@ python -m graphrag.query \
 "この物語の登場人物同士の関係は？"
 ```
 
-## make via make
+Output Example:
 
 ```markdown
 # 登場人物同士の関係
@@ -128,6 +128,7 @@ python -m graphrag.query \
 これらの関係は、物語の登場人物同士の複雑な相互作用と深い絆を浮き彫りにしています。各キャラクターの行動と動機は、彼らの関係性によって大きく影響されており、物語全体のテーマである忠誠、信頼、そして正義の追求を強調しています。
 ```
 
+## Run via make
 You can run script via `make`:
 
 ```bash
